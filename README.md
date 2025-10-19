@@ -8,5 +8,7 @@ Track the daily expenses based on various categories (fixed, food, car, item, co
 
 ### Backend
 * REST API
-* .NET Core
-* MongoDB
+* ASP .NET Core
+* Firestore as database
+
+Host Frontend on Firebase, Backend on Azure App Service
